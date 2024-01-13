@@ -1158,5 +1158,6 @@ div iframe {
     .sectionServicios {
         margin-left: 0px;
         padding-left: 65px;
+        padding-right: 65px;
     }
 }
