@@ -1142,14 +1142,14 @@ div iframe {
 @media (min-width:650px) and (max-width:768px) {
     .sectionServicios {
         margin-left: 0px;
-        /* padding-left: 250px; */
+        padding-left: 90px;
     }
 }
 
-@media (min-width:577px) and (max-width: 768px) {
+@media (min-width:577px) and (max-width: 649px) {
     .sectionServicios {
         margin-left: 0px;
-        padding-left: 170px;
+        padding-left: 90px;
          
     }
 }
@@ -1157,6 +1157,6 @@ div iframe {
 @media (max-width:576px) {
     .sectionServicios {
         margin-left: 0px;
-        padding-left: 100px;
+        padding-left: 90px;
     }
 }
