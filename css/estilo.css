@@ -1153,9 +1153,9 @@ div iframe {
     }
 }
 
-@media (max-width:576px) {
+@media (max-width:768px) {
     .sectionServicios {
         margin-left: 0px;
-        padding-left: 50px;
+        padding-left: 80px;
     }
 }
